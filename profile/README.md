@@ -98,7 +98,6 @@ Número: 8 questões
 
 **Vantagens:**
 • **Consistência total**: Questões sempre alinhadas com os materiais da escola
-• **Eficiência operacional**: Redução de 80% no tempo de criação de atividades
 • **Gabarito inteligente**: Correção automatizada com feedback personalizado
 • **Rastreabilidade**: Cada questão vinculada à sua fonte original nos documentos
 • **Múltiplas versões**: Geração de diferentes versões da mesma avaliação
